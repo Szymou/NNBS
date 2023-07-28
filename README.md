@@ -24,7 +24,7 @@ APP牛牛巴士：大麦抢票消息、波泼码生成、JJ20扫文识字搜答�
 
 ## 脚本AUTOJS
 
-脚本在Q群，Q群在[APP](https://github.com/Szymou/NNBS/releases)有入口。
+最新脚本在Q群，Q群在[APP](https://github.com/Szymou/NNBS/releases)有入口。
 
 ### 日志记录
 1.  **07.27记录：0秒之后按钮会变"立即订购"，继而一瞬间又变回"立即预约"按钮，说明APP，在0秒的时候还会再次请求服务器时间校正，所以`0727版本`添加了抖动。**
