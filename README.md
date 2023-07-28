@@ -1,9 +1,9 @@
 # NNBS
-大麦抢票消息、波泼码生成、JJ20扫文识字搜答案
+APP牛牛巴士：大麦抢票消息、波泼码生成、JJ20扫文识字搜答案
 
-wx：sqdcyh，加我拉你进群欢迎一起讨论最新方案。
+`加v：sqdcyh，进群欢迎一起讨论最新方案。`
 
-
+[点击获取app历史版本](https://github.com/Szymou/NNBS/releases)
 
 ## 牛牛巴士APP
 
