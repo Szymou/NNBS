@@ -1,6 +1,16 @@
 auto.waitFor();
 app.launchApp("大麦");
 console.show();
+console.setPosition(100,100)
+
+/************更多最新脚本，欢迎进群604964470了解，验证信息填写：在哪里看到本脚本****************/
+/***
+ 牛牛巴士APP：
+ 1.某麦抢票消息、波泼页码生成、JJ20扫文识字搜答案；
+ 2.某麦模拟点击脚本已完成；优先购脚本、滑块脚本正在拟测中...
+ https://wwxz.lanzouw.com/b0aug8sjc
+ 密码：9alc
+ ***/
 
 //本脚本是通过github大神们的脚本，模仿写出，用来学习使用
 //预先说明，滑块问题，需要更换设备和路由器，或者直接用手机网络，到手机网络会慢，自己抉择
@@ -67,16 +77,16 @@ function main(ticketInfo) {
         if(ss>300){
             print("剩余："+(ss)+"秒");
         }else{print("剩余："+(mm)+"毫秒");}
-        
+
         i++;
         if(i%200==0){
             print("清屏");
             console.clear();
           //break;
         }
- 
+
     }
-    
+
     //2023.07.27  加个抖动，因为在0秒的时候，还会再次请求服务器时间回到APP校准，所以此处等几毫秒吧
     print("加入抖动：" + zeroToWait + "ms");
     sleep(zeroToWait);
@@ -94,13 +104,13 @@ function main(ticketInfo) {
 
     id("btn_buy").findOne().click();
     print("点击红色确定按钮");
-    
+
     //print("进入提交订单页面");
-    
+
     //获取按钮位置
     text("提交订单").findOne().click();
     print("点击提交订单按钮");
- 
+
 
     // 提交订单的大麦时间
     var endTime = convertToTime(getDamaiTimestamp());
@@ -110,7 +120,7 @@ function main(ticketInfo) {
 
 /**
  * 感谢GitHub大佬提供
- * @param {时间戳} timestamp 
+ * @param {时间戳} timestamp
  * @returns ISO 8601 格式的北京时间
  */
 function convertToTime(timestamp) {
@@ -127,7 +137,7 @@ function convertToTime(timestamp) {
 }
 
 /**
- * 
+ *
  * @returns 大麦服务器时间戳
  */
 function getDamaiTimestamp() {

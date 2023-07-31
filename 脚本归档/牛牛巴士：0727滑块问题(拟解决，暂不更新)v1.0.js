@@ -1,7 +1,16 @@
 auto.waitFor();
 app.launchApp("大麦");
 console.show();
-//欢迎进群604964470，一起学习、讨论
+console.setPosition(100,100)
+
+/************更多最新脚本，欢迎进群604964470了解，验证信息填写：在哪里看到本脚本****************/
+/***
+ 牛牛巴士APP：
+ 1.某麦抢票消息、波泼页码生成、JJ20扫文识字搜答案；
+ 2.某麦模拟点击脚本已完成；优先购脚本、滑块脚本正在拟测中...
+ https://wwxz.lanzouw.com/b0aug8sjc
+ 密码：9alc
+ ***/
 
 //本脚本单独执行，模拟点击脚本也单独执行
 
@@ -56,11 +65,11 @@ threads.start(
             var x = tt.bounds().centerX();
             var y = tt.bounds().centerY();
             print("找到滑块坐标(" + x + "," + y + ")尝试滑动")
-            findSliper = true;          
+            findSliper = true;
             swipe(x+offsetX, y+offsetY, x+swipeLength, y+offsetY, swipeTime);
             sleep(2000)
             findSliper=false
-            
+
             threads.start(
                 function(){
                     while(!findSliper){
