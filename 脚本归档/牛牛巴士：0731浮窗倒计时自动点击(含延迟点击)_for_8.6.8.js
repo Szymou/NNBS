@@ -11,8 +11,8 @@ console.setPosition(100,100)
 
 //步骤2：在此处填好你想看的场次(填周X)和票档(填数字)
 var ticketInfo = {
-    date: "周六",
-    price: 1077
+    date: "周日",
+    price: "2580"
 }
 
 //步骤2.1 倒计时0秒之后按钮会变"立即订购"，继而一瞬间又变回"立即预约"，说明APP，在0秒的时候还会再次请求服务器时间，所以此处新添抖动
@@ -31,7 +31,7 @@ function main(ticketInfo) {
     var UIStartTime = id("id_project_count_sell_time").findOne();
     // 获取系统本地时间
     var strStartTime = UIStartTime.text();
-    print("获取到的开抢时间: " + strStartTime);
+    print("获取到开抢时间: " + strStartTime);
 
     // 通过viewId获取点击坐标
     //todo 如果大麦更新该id，得重新获取jdxd
