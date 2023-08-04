@@ -4,7 +4,7 @@
 `如需要技术和最新技术消息，可以通过app进Q群即可，群中有最新版本脚本。`
 [点击获取app历史版本](https://github.com/Szymou/NNBS/releases)
 
-`当然，也可以加v：nnbs_119，记得注明来源，进vx群一起讨论购票（票贩子勿扰，各自有各自的圈子，别来污染，都不容易。）`
+~~`当然，也可以加v：nnbs_119，记得注明来源，进vx群一起讨论购票`~~`（票贩子勿扰，各自有各自的圈子，别来污染，都不容易。）`
 
 ## 牛牛巴士
 简要：《牛牛巴士》是一款可以提供抢票消息、波泼码生成、JJ20扫文识字搜答案等功能的APP
@@ -29,6 +29,11 @@
 最新脚本在Q群，Q群在[APP](https://github.com/Szymou/NNBS/releases)有入口。
 
 ### 日志记录
+
+**08.05记录：1.最新脚本正在测试自动检测并点击'努力刷新'按钮；2.目前流传有几种抢票方案，还没时间去时间：①[方案1步骤](https://mp.weixin.qq.com/s?__biz=MzI1NTY2MzUyMg==&mid=2247483659&idx=1&sn=4330153643ba705aeeb66e051e2e9110&chksm=ea33cdc6dd4444d0e0e4c7eccea143979790e8d4b5ccdce402ee8c3472d7d8bc1071415139dd#rd)②UA伪装成weixin，加载脚本**
+
+| <img src="./img/w1.png" alt="首页" style="zoom:20%;" /> | <img src="./img/w2.png" alt="首页" style="zoom:20%;" />     |   <img src="./img/w3.png" alt="首页" style="zoom:20%;" />   |   <img src="./img/w4.png" alt="首页" style="zoom:20%;" />   |
+| ----- | ---- | ---- | ---- |
 
 **07.31记录：新增0731滑块模拟滑动脚本，请尝鲜.**
 
