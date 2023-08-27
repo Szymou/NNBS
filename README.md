@@ -30,6 +30,8 @@
 
 ### 日志记录
 
+**08.27记录：新增0827回流检测脚本，请尝鲜.**
+
 **08.05记录：1.最新脚本正在测试：自动检测并点击'努力刷新'按钮；2.目前流传有几种方案：①[方案1步骤](https://mp.weixin.qq.com/s?__biz=MzI1NTY2MzUyMg==&mid=2247483659&idx=1&sn=4330153643ba705aeeb66e051e2e9110&chksm=ea33cdc6dd4444d0e0e4c7eccea143979790e8d4b5ccdce402ee8c3472d7d8bc1071415139dd#rd)②UA伪装成weixin，加载脚本**
 
 | <img src="./img/w1.png" alt="首页" style="zoom:20%;" /> | <img src="./img/w2.png" alt="首页" style="zoom:20%;" />     |   <img src="./img/w3.png" alt="首页" style="zoom:20%;" />   |   <img src="./img/w4.png" alt="首页" style="zoom:20%;" />   |
@@ -47,8 +49,8 @@
 
 **07.26记录：大麦在线更新，`波泼码`不再行，间断性可以；如果能进去，那就不要出来，等到时间开始。**
 
-| <img src="./img/autojs0727.jpg" alt="脚本js" style="zoom:20%;" /> |
-| ------------------------------------------------------------ |
+| <img src="./img/autojs0727xxxx.jpg" alt="脚本js" style="zoom:20%;" /> |
+|---------------------------------------------------------------------|
 
 
 
