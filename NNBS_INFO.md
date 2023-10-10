@@ -4,9 +4,9 @@
 
 ## 1. 二维码集合
 
-|       [QQ交流群](https://files.nnbs.cc/temp/qq-g.png)        |   [微信公众号](https://files.nnbs.cc/temp/wx-qr-code.png)    |       ----->       |      [热心捐赠](https://files.nnbs.cc/temp/give_qr.jpg)      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :----------------------------------------------------------: |
-| <a href="https://qm.qq.com/q/BFWRFy4rMk&personal_qrcode_source=1001" target="_blank"><img src="https://files.nnbs.cc/temp/qq-g.png" width=200 /></a> | <a href="https://files.nnbs.cc/temp/wx-qr-code.png" target="_blank"><img src="https://files.nnbs.cc/temp/wx-qr-code.png" width=200 /></a> | **望大家多多支持** | <a href="https://files.nnbs.cc/temp/give_qr.jpg" target="_blank"><img src="https://files.nnbs.cc/temp/give_qr.jpg" width=200px /></a> |
+|                                         [QQ交流群](https://files.nnbs.cc/temp/qq-g.png)                                          |                                  [微信公众号](https://files.nnbs.cc/temp/wx-qr-code.png)                                  |       ----->       |                                 [热心捐赠](https://files.nnbs.cc/temp/give_qr.jpg)                                 |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:| :----------------: |:--------------------------------------------------------------------------------------------------------------:|
+| <a href="https://qm.qq.com/q/BFWRFy4rMk&personal_qrcode_source=1001" target="_blank"><img src="https://github.com/Szymou/NNBS/blob/main/img/1.png" width=200 /></a> | <a href="https://files.nnbs.cc/temp/wx-qr-code.png" target="_blank"><img src="./img/wx-qr-code.png" width=200 /></a> | **望大家多多支持** | <a href="https://files.nnbs.cc/temp/give_qr.jpg" target="_blank"><img src="img/give_qr.jpg" width=200px /></a> |
 
 ## 2. 相关链接
 
