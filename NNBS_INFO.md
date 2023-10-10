@@ -1,19 +1,21 @@
 
 
+[TOC]
+
 # 一、相关信息
 
 ## 1. 二维码集合
 
-|                                         [QQ交流群](https://files.nnbs.cc/temp/qq-g.png)                                          |                                  [微信公众号](https://files.nnbs.cc/temp/wx-qr-code.png)                                  |       ----->       |                                 [热心捐赠](https://files.nnbs.cc/temp/give_qr.jpg)                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:| :----------------: |:--------------------------------------------------------------------------------------------------------------:|
-| <a href="https://qm.qq.com/q/BFWRFy4rMk&personal_qrcode_source=1001" target="_blank"><img src="https://github.com/Szymou/NNBS/blob/main/img/1.png" width=200 /></a> | <a href="https://files.nnbs.cc/temp/wx-qr-code.png" target="_blank"><img src="./img/wx-qr-code.png" width=200 /></a> | **望大家多多支持** | <a href="https://files.nnbs.cc/temp/give_qr.jpg" target="_blank"><img src="img/give_qr.jpg" width=200px /></a> |
+|                                                     [QQ交流群](./img/qq-g.png)                                                     |   [微信公众号](./img/wx-qr-code.png)    |       ----->       |      [热心捐赠](./img/give_qr.jpg)      |
+|:-------------------------------------------------------------------------------------------------------------------------------:| :----------------------------------------------------------: | :----------------: | :----------------------------------------------------------: |
+| <a href="https://qm.qq.com/q/BFWRFy4rMk&personal_qrcode_source=1001" target="_blank"><img src="./img/qq-g.png" width=200 /></a> | <a href="./img/wx-qr-code.png" target="_blank"><img src="./img/wx-qr-code.png" width=200 /></a> | **望大家多多支持** | <a href="./img/give_qr.jpg" target="_blank"><img src="./img/give_qr.jpg" width=200px /></a> |
 
 ## 2. 相关链接
 
 
 > 社区地址：<a href="https://www.nnbs.cc" target="_blank">点击进入</a>
 > 
-> APP下载：<a href="https://wwxz.lanzouw.com/b0aug8sjc" target="_blank">点击下载</a>  (密码：9alc)
+> APP下载：<a href="https://wwxz.lanzouw.com/b0aug8sjc" target="_blank">点击下载</a>  (密码：9alc) 或者直接在github上[Releases](https://github.com/Szymou/NNBS/releases)下载
 > 
 > GITHUB：<a href="https://github.com/Szymou/NNBS" target="_blank">点击进入</a>
 
@@ -24,66 +26,69 @@
 
 > ### 重要提示：【在线监控】和APP中的【票票监控】属于不同的功能服务，【在线监控】当前限时体验！！！
 
-### ①在牛牛巴士APP中激活在线账号（设备还在有效期才允许激活）
+### ①在牛牛巴士APP中激活在线账号
 
+> 设备还在有效期才允许在APP激活，设备过期的请移步社区在相关帖子按要求回复设备ID即可。
+>
 > 默认账号：设备ID
 >
 > 默认密码：123456
 
-| ![](https://files.nnbs.cc/temp/indexExplain/0.1.png) | ![](https://files.nnbs.cc/temp/indexExplain/0.2.png) | ![](https://files.nnbs.cc/temp/indexExplain/0.3.png) |
+| ![](./img/0.1.png) | ![](./img/0.2.png) | ![](./img/0.3.png) |
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 
 
 
 ### ②获取机器人
 
-**手机建群**
+> 手机打开TINGTALK，**创建团队**（创建内部群需要满足该条件）
 
-> 打开TINGTALK---->发起群聊---->建立内部群
-
-| ![](https://files.nnbs.cc/temp/indexExplain/1.png) | ![](https://files.nnbs.cc/temp/indexExplain/2.png) | ![](https://files.nnbs.cc/temp/indexExplain/3.png) | ![](https://files.nnbs.cc/temp/indexExplain/4.png) |
+| ![](./img/1.png) | ![](./img/2.png) | ![](./img/3.png) | ![](./img/4.png) |
 | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- |
 
-**在电脑版TINGTALK，创建机器人**
+> 电脑打开TINGTALK，**创建机器人**
 
-![](https://files.nnbs.cc/temp/indexExplain/5.png)
+![](./img/5.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/6.png)
+![](./img/6.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/7.png)
+![](./img/7.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/8.png)
+![](./img/8.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/9.png)
+![](./img/9.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/10.png)
+![](./img/10.png)
 
 ### ③设置机器人关键词：NNBS
-![](https://files.nnbs.cc/temp/indexExplain/11.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/12.png)
+> 勾选"自定义关键词"
 
-![](https://files.nnbs.cc/temp/indexExplain/13.png)
+![](./img/11.png)
+
+![](./img/12.png)
+
+![](./img/13.png)
 
 ### ④后台接入机器人 [点击跳转后台](https://web.nnbs.cc/)
 
-![](https://files.nnbs.cc/temp/indexExplain/14.png)
+![](./img/14.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/15.png)
+![](./img/15.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/16.png)
+![](./img/16.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/17.png)
+![](./img/17.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/18.png)
+![](./img/18.png)
 
 ### ⑤添加监控数据
 
-![](https://files.nnbs.cc/temp/indexExplain/19.png)
+![](./img/19.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/20.png)
+![](./img/20.png)
 
-![](https://files.nnbs.cc/temp/indexExplain/21.png)
+![](./img/21.png)
 
 ## 2. 脚本使用
 
